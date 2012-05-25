@@ -21,7 +21,7 @@
 * You need a test application **with** debug information (`.pdb` file).  
   If you have no other choice, use the `testapp` from this repository.
 
-* Go to the directory `<Pin dir>/ia32/bin/` (if you have build the coverage tool for `ia32`).
+* Go to the directory `<Pin dir>/ia32/bin/` (if you have built the coverage tool for `ia32`).
 
 * Execute Pin using the coverage tool:
 

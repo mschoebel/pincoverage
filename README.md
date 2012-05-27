@@ -61,3 +61,5 @@
 * There is a binary release for Windows available [here](https://github.com/downloads/mschoebel/pincoverage/coverage.zip). Use at your own risk.
 
 * See `license.txt` for license information - in short: Simplified BSD License.
+
+* See this [blog post](http://mschoebel.info/coverage_using_pin.html) for additional information.

@@ -6,11 +6,11 @@
 ## Build instructions
 
 * Obviously, you need [Pin](http://www.pintool.org/).  
-  The tool was tested as `ia32` tool for `pin-2.11-49306-msvc9-ia32_intel64-windows`.
+  The tool was tested as `ia32` tool for `pin-2.11-49306-msvc9-ia32_intel64-windows` and for the `msvc10` version.
 
 * Copy the directory `coverage` to `<Pin dir>/source/tools/`
 
-* Build the tool using the provided VisualStudio 2008 solution file `coverage.sln`.  
+* Build the tool using one of the provided VisualStudio solution files `coverage_vs9.sln` or `coverage_vs10.sln`.  
   For other platforms or different compilers, please see the instructions in the Pin manual.
 
 * The result should be a file named `coverage.dll` in the tools directory
@@ -58,7 +58,7 @@
 
 * Remarks, hints, suggestions, pull requests are welcome.
 
-* There is a binary release for Windows available [here](https://github.com/downloads/mschoebel/pincoverage/coverage.zip). Use at your own risk.
+* There is a binary release for Windows (VS9) available [here](https://github.com/downloads/mschoebel/pincoverage/coverage.zip). Use at your own risk.
 
 * See `license.txt` for license information - in short: Simplified BSD License.
 
